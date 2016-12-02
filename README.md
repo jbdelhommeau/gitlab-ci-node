@@ -13,5 +13,5 @@ Runner node for Gitlab Continuous Integration with grunt, gulp and bower install
 -	[`0.12`, `0` (*0.12/Dockerfile*)](https://github.com/naoned/gitlab-ci-node/blob/master/0.12/Dockerfile)
 -	[`4.0`, `4` (*4.0/Dockerfile*)](https://github.com/naoned/gitlab-ci-node/blob/master/4.0/Dockerfile)
 -	[`5.0`, `5` (*5.0/Dockerfile*)](https://github.com/naoned/gitlab-ci-node/blob/master/5.0/Dockerfile)
--	[`6.0`, `6.0`, `6`, `latest` (*6.0/Dockerfile*)](https://github.com/naoned/gitlab-ci-node/blob/master/6.0/Dockerfile)
+-	[`6.0`, `6`, `latest` (*6.0/Dockerfile*)](https://github.com/naoned/gitlab-ci-node/blob/master/6.0/Dockerfile)
 -	[`7.0`, `7` (*7.0/Dockerfile*)](https://github.com/naoned/gitlab-ci-node/blob/master/7.0/Dockerfile)
