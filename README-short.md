@@ -1,1 +1,1 @@
-Container with node, bower and gulp for Gitlab Continuous Integration or not.
+Container with node, bower, gulp and yarn for Gitlab Continuous Integration or not.

@@ -2,7 +2,8 @@ FROM node:4-wheezy
 
 MAINTAINER Jean-Baptiste Delhommeau "jeanbadel@gmail.com"
 
-RUN npm install -g gulp grunt bower
+RUN npm install -g gulp grunt bower yarn
+RUN npm cache clean
 
 #Bower config
 ENV CI true

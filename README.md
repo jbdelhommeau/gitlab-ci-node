@@ -1,5 +1,5 @@
 # gitlab-ci-node
-Runner node for Gitlab Continuous Integration with grunt, gulp and bower installed in global
+Runner node for Gitlab Continuous Integration with lastest version of grunt, gulp, bower and yarn installed in global.
 
 # Current Node version supported:
 - 0.12.x
